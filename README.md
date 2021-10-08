@@ -1,2 +1,2 @@
 # geogo
-Go client library to simplify access to the GeoNames web services.
+Go client library to simplify access to the [GeoNames](http://www.geonames.org) web services.
